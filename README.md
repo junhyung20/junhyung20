@@ -1,5 +1,5 @@
 ## Hi there 👋
-GCU 24
+GLAC 24
 <!--
 **junhyung20/junhyung20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
